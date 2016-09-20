@@ -40,6 +40,14 @@ L.error("error");
 L.critical("critical");
 ```
 
+#Available Levels
+- 'verbose'
+- 'debug'
+- 'info'
+- 'log'
+- 'warn'
+- 'error'
+- 'critical'
 
 #Parameters to pass to constructor
 
