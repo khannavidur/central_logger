@@ -31,7 +31,7 @@ var
         }]
     });
 
-L.verbose("verbose");
+L.verbose({dummy_key : 'dummy_value',log:"verbose"});
 L.debug("debug");
 L.info("info");
 L.log("log");
