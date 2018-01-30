@@ -6,6 +6,6 @@
     "dependencies"      : {
         "bunyan"        : "~1.8.1",
         "lodash"        : "~3.8.0",
-        "moment"       	: "~2.10.2"
+        "moment"       	: "~2.11.2"
     }
 }
